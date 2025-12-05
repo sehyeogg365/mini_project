@@ -1,0 +1,11 @@
+# 가상 환경 폴더
+/venv
+/.venv
+
+# 컴파일된 바이트 코드
+__pycache__/
+*.pyc
+
+# 파이썬 로컬 로그 및 캐시
+.pytest_cache/
+.mypy_cache/
