@@ -460,9 +460,8 @@ upper_bound_score = Q3 + 1.5 * IQR
 - [최저가]: LG는 150~225만원사이, 삼성전자는 175~225만원 사이, APPLE은 150~200만원 사이였다.
 
 
+
 ![](https://velog.velcdn.com/images/shlim55/post/90fa6eb8-7e01-49a1-bdc8-49aec1002e00/image.png)
-
-
 
 
 
