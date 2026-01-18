@@ -463,6 +463,8 @@ upper_bound_score = Q3 + 1.5 * IQR
 <br>
 
 <img src="https://velog.velcdn.com/images/shlim55/post/90fa6eb8-7e01-49a1-bdc8-49aec1002e00/image.png" width="100%">
+https://velog.velcdn.com/images/shlim55/post/90fa6eb8-7e01-49a1-bdc8-49aec1002e00/image.png
+<img width="1621" height="577" alt="image" src="https://github.com/user-attachments/assets/c9311d5b-875b-4c5b-8f56-a0cf6f49f8e3" />
 
 <br>
 
