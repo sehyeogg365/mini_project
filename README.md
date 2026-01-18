@@ -461,7 +461,9 @@ upper_bound_score = Q3 + 1.5 * IQR
 
 
 <br>
+
 ![](https://velog.velcdn.com/images/shlim55/post/90fa6eb8-7e01-49a1-bdc8-49aec1002e00/image.png)
+
 <br>
 
 
